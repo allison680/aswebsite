@@ -7,6 +7,7 @@ about:
 ---
 
 :::{#me}
+I am a junior Wildlife and Conservation Biology student at the University of New Hampshire.
 
 ## Goals
 
