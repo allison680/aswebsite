@@ -3,22 +3,6 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img\professional_photo.jpg"
+  image: professional_photo.jpg
 ---
-
-:::{#me}
-I am a junior Wildlife and Conservation Biology student at the University of New Hampshire.
-
-## Goals
-Climb higher mountains than Faith. 
-
-
-## Education
-
-Clown School (Ringling Bros, Sarasota Florida)!
-
-## Experience
-
-:::
-
-Thanks for checking out my web site!
+My name is Allison Sughrue and I am a Wildlife and Conservation Biology major, Environmental Justice and Zoology minor at the University of New Hampshire. I enjoy hiking, paddleboarding, horseback riding, and reading. 
