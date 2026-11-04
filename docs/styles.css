@@ -1,5 +1,9 @@
-.about img {
+.about-image,
+.about-image img,
+.about img,
+div.about img {
   height: auto !important;
   max-height: none !important;
   object-fit: contain !important;
+  object-position: center center !important;
 }
