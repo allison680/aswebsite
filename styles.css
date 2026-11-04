@@ -1,9 +1,7 @@
-.about-image,
-.about-image img,
-.about img,
-div.about img {
+.about-entity img {
+  object-fit: contain !important;
+  object-position: center top !important;
   height: auto !important;
   max-height: none !important;
-  object-fit: contain !important;
-  object-position: center center !important;
+  width: 100% !important;
 }
