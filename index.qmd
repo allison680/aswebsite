@@ -5,4 +5,6 @@ about:
   template: broadside
   image: professional_photo.jpg
 ---
-My name is Allison Sughrue and I am a Wildlife and Conservation Biology major, Environmental Justice and Zoology minor at the University of New Hampshire. I enjoy hiking, paddleboarding, horseback riding, and reading. 
+**Allison Sughrue**
+
+I am a Wildlife and Conservation Biology major, Environmental Justice and Zoology minor at the University of New Hampshire. I enjoy hiking, paddleboarding, horseback riding, and reading. 
