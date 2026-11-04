@@ -5,3 +5,10 @@
   max-height: none !important;
   width: 100% !important;
 }
+
+#about-me img {
+  object-fit: contain !important;
+  object-position: top center !important;
+  height: auto !important;
+  max-height: none !important;
+}
